@@ -1,0 +1,23 @@
+{
+  "name": "dapp-practice",
+  "version": "1.0.0",
+  "description": "learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amat-pro/DApp-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amat-pro/DApp-practice/issues"
+  },
+  "homepage": "https://github.com/Amat-pro/DApp-practice#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0",
+    "web3": "^4.16.0"
+  }
+}
